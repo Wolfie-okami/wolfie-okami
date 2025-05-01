@@ -59,9 +59,9 @@ Here are some of my notable projects:
 ## **📬 Contact Me**  
 Let's connect! I'm open to job opportunities, collaborations, and tech discussions.  
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle) *(optional)*  
+📧 **Email:** [Abydows@gmail.com](mailto:your.email@example.com)  
+🔗 **LinkedIn:** [NA](https://linkedin.com/in/yourprofile)  
+🐦 **Twitter:** [NA](https://twitter.com/yourhandle) *(optional)*  
 
 ---
 
