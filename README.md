@@ -65,7 +65,7 @@ Let's connect! I'm open to job opportunities, collaborations, and tech discussio
 
 ---
 
-## **📈 GitHub Stats** *(Optional but impactful)*  
+## **📈 GitHub Stats** 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
@@ -75,9 +75,8 @@ Let's connect! I'm open to job opportunities, collaborations, and tech discussio
 ---
 
 ### **🎯 Currently Learning / Goals**  
-- 🌱 Learning: [New Technology/Framework]  
-- 🎯 202X Goal: [Your Career Goal]  
-
+- 🌱 Learning: backend development 
+- 🎯 2025 Goal: working on fundamentals
 ---
 
 ⭐ **Thanks for visiting!** Feel free to explore my repositories and reach out.  
