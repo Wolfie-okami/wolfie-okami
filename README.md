@@ -36,41 +36,12 @@ Here are some of the key skills I work with:
 
 ---
 
-## **💼 Projects**  
-Here are some of my notable projects:  
-
-### **1. [Project Name]**  
-🔗 [Live Demo](#) | 📂 [GitHub Repo](#)  
-📝 *Brief description of the project, technologies used, and key features.*  
-
-### **2. [Project Name]**  
-🔗 [Live Demo](#) | 📂 [GitHub Repo](#)  
-📝 *Brief description of the project, technologies used, and key features.*  
-
-*(Include 3-5 strong projects with links to demos and repos.)*  
-
----
-
-## **📄 Resume**  
-📌 **[View My Resume](#)**
-
----
-
 ## **📬 Contact Me**  
 Let's connect! I'm open to job opportunities, collaborations, and tech discussions.  
 
 📧 **Email:** [Abydows@gmail.com](mailto:your.email@example.com)  
 🔗 **LinkedIn:** [NA](https://linkedin.com/in/yourprofile)  
 🐦 **Twitter:** [NA](https://twitter.com/yourhandle) *(optional)*  
-
----
-
-## **📈 GitHub Stats** 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-
-*(Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for dynamic stats.)*  
 
 ---
 
