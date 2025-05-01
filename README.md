@@ -52,7 +52,7 @@ Here are some of my notable projects:
 ---
 
 ## **📄 Resume**  
-📌 **[View My Resume](#)** *(Link to PDF or LinkedIn profile)*  
+📌 **[View My Resume](#)**
 
 ---
 
