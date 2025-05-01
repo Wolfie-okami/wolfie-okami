@@ -2,10 +2,10 @@ Creating a strong **Job Opportunist Portfolio README** on GitHub is a great way 
 
 ---
 
-# **👋 Hi, I'm [Your Name]**  
-**🚀 Aspiring [Your Profession/Role] | Passionate about [Your Interests]**  
+# **👋 Hi, I'm Okami**  
+**🚀 Aspiring Junior Developer| Passionate about learning code and experimenting with it.**  
 
-Welcome to my GitHub portfolio! I'm a [brief introduction about yourself, your career goals, and what drives you].  
+Welcome to my GitHub portfolio! I'm a code enthusist. My drem is to create my own os one day..
 
 ---
 
