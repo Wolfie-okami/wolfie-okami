@@ -46,7 +46,7 @@ Let's connect! I'm open to job opportunities, collaborations, and tech discussio
 ---
 
 ### **🎯 Currently Learning / Goals**  
-- 🌱 Learning: backend development 
+- 🌱 Learning: DEVOPS
 - 🎯 2025 Goal: working on fundamentals
 ---
 
