@@ -40,7 +40,7 @@ Here are some of the key skills I work with:
 Let's connect! I'm open to job opportunities, collaborations, and tech discussions.  
 
 📧 **Email:** [Abydows@gmail.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [Anurag Banerjee]([https://linkedin.com/in/anurag-banerjee-50276b369])  
+🔗 **LinkedIn:** [Anurag Banerjee](https://linkedin.com/in/anurag-banerjee-50276b369)  
 🐦 **Twitter:** [Okami](@Abyd0ws) *(optional)*  
 
 ---
