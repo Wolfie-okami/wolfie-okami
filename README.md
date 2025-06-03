@@ -13,15 +13,15 @@ Welcome to my GitHub portfolio! I'm a code enthusist. My drem is to create my ow
 Here are some of the key skills I work with:  
 
 ### **Programming Languages**  
-[![Languages](https://skillicons.dev/icons?i=js,py,java,cpp,go,rust)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=py,go,rust)](https://skillicons.dev)  
 - Python,Go, Rust  
 
 ### **Frontend Development**  
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)  
+[![Frontend](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)  
 - HTML, CSS,
 
 ### **Backend & Databases**  
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase)](https://skillicons.dev)  
+[![Backend](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
 - Node.js 
 
 ### **DevOps & Cloud**  
