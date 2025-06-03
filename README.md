@@ -14,15 +14,15 @@ Here are some of the key skills I work with:
 
 ### **Programming Languages**  
 [![Languages](https://skillicons.dev/icons?i=js,py,java,cpp,go,rust)](https://skillicons.dev)  
-- JavaScript, Python, Java, C++, Go, Rust  
+- Python,Go, Rust  
 
 ### **Frontend Development**  
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)  
-- HTML, CSS, React, Next.js, TailwindCSS  
+- HTML, CSS,
 
 ### **Backend & Databases**  
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase)](https://skillicons.dev)  
-- Node.js, Express, MongoDB, PostgreSQL, Firebase  
+- Node.js 
 
 ### **DevOps & Cloud**  
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions)](https://skillicons.dev)  
